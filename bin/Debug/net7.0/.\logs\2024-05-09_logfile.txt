@@ -1,0 +1,360 @@
+2024-05-09 11:46:56.2051 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 11:46:56.2404 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 11:46:56.2438 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 11:46:56.2701 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 11:48:33.8432 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 11:51:50.9972 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 11:56:02.5632 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:06:24.4724 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:06:24.5080 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:06:24.5120 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:06:24.5413 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:08:44.6009 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:15:40.1720 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:15:40.2087 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:15:40.2121 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:15:40.2419 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:17:55.7257 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:18:45.2850 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:23:50.0918 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:24:47.8385 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 429 (Too Many Requests).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:35:16.7542 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:35:16.7899 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:35:16.7931 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:35:16.8207 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:36:04.5749 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:36:47.2714 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:36:47.3061 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:36:47.3095 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:36:47.3367 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:44:06.5817 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:44:06.6232 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:44:06.6277 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:44:06.6593 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:47:16.9878 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:47:17.0238 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:47:17.0270 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:47:17.0568 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:48:14.2842 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:48:46.3344 ERROR Something went wrong: System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at NewWebApi.Services.OpenAi.GetResponse(HttpRequestMessage requestString) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 59
+   at NewWebApi.Services.OpenAi.GetTaroAnswer(DataTable cards, String question) in /Users/apple/NewWebApi/Services/OpenAi.cs:line 46
+   at NewWebApi.Controllers.AnswerController.Get(Desc desc) in /Users/apple/NewWebApi/Controllers/AnswerController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in /Users/apple/NewWebApi/Program.cs:line 70
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-05-09 12:49:32.0400 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:49:32.0831 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:49:32.0885 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:49:32.1421 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:53:43.3437 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 12:53:43.3794 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 12:53:43.3828 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 12:53:43.4117 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:00:34.0244 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 13:00:34.0604 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 13:00:34.0635 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:00:34.0904 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:08:37.1990 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 13:08:37.2313 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 13:08:37.2344 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:08:37.2627 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:16:55.9091 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 13:16:55.9460 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 13:16:55.9490 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:16:55.9789 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:28:07.5364 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 13:28:07.5697 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 13:28:07.5728 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 13:28:07.6010 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 16:45:42.6625 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 16:45:42.6992 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 16:45:42.7020 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 16:45:42.7329 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 16:54:57.8037 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 16:54:57.8408 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 16:54:57.8443 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 16:54:57.8714 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:10:17.0480 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:10:17.0853 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:10:17.0888 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:10:17.1210 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:15:08.4597 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:15:08.4950 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:15:08.4980 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:15:08.5271 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:18:26.1042 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:18:26.1521 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:18:26.1549 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:18:26.1836 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:38:42.4566 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:38:42.4904 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:38:42.4934 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:38:42.5209 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:43:13.8269 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:43:13.8638 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:43:13.8685 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:43:13.9002 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:49:30.3726 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:49:30.4077 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:49:30.4107 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:49:30.4394 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:50:42.1747 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 17:50:42.2059 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 17:50:42.2089 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 17:50:42.2366 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 22:32:06.1577 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 22:32:06.2000 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 22:32:06.2031 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 22:32:06.2333 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 22:40:41.7996 INFO Adding 1 jobs, 1 triggers.
+2024-05-09 22:40:41.8352 INFO Adding job: DEFAULT.HoroscopeJob
+2024-05-09 22:40:41.8383 DEBUG Scheduling job: DEFAULT.HoroscopeJob with trigger: DEFAULT.HoroscopeJob_trigger
+2024-05-09 22:40:41.8679 DEBUG Rescheduling job: DEFAULT.HoroscopeJob with updated trigger: DEFAULT.HoroscopeJob_trigger

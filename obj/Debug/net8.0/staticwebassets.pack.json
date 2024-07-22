@@ -1,0 +1,1997 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Back.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Back.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Box02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Box02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major14.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major19.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AtlantisDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AtlantisDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Back.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Back.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Box Insert.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Box Insert.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Box.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Box.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/major14.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/AvalonDesc/major19.jpg",
+      "PackagePath": "staticwebassets/Images/AvalonDesc/major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Back.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Back.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Box.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Box.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major14.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major19.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/BaroqueDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/BaroqueDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major14.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major19.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/FirstDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/FirstDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Back.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Back.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Box.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Box.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major14.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major19.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GoldenDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GoldenDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Back.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Back.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Box Insert.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Box Insert.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Box.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Box.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins01.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins02.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins03.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins04.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins05.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins06.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins07.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins08.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins09.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Coins10.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Coins10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CoinsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CoinsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CoinsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CoinsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CoinsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CoinsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CoinsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CoinsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups01.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups02.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups03.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups04.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups05.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups06.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups07.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups08.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups09.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Cups10.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Cups10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CupsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CupsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CupsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CupsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CupsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CupsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/CupsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/CupsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major00.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major00.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major01.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major02.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major03.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major04.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major05.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major06.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major07.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major08.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major09.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major10.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major11.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major11.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major12.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major12.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major13.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major13.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major14.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major14.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major15.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major15.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major16.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major16.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major17.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major17.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major18.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major18.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major19.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major19.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major20.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major20.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Major21.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Major21.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords01.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords02.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords03.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords04.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords05.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords06.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords07.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords08.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords09.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Swords10.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Swords10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/SwordsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/SwordsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/SwordsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/SwordsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/SwordsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/SwordsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/SwordsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/SwordsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands01.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands01.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands02.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands02.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands03.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands03.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands04.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands04.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands05.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands05.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands06.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands06.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands07.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands07.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands08.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands08.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands09.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands09.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/Wands10.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/Wands10.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/WandsKing.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/WandsKing.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/WandsKnight.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/WandsKnight.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/WandsPage.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/WandsPage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/GothicDesc/WandsQueen.jpg",
+      "PackagePath": "staticwebassets/Images/GothicDesc/WandsQueen.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/AtlantisDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/AtlantisDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/AvalonDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/AvalonDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/BaroqueDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/BaroqueDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Desc.jpg",
+      "PackagePath": "staticwebassets/Images/System/Desc.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/End.jpg",
+      "PackagePath": "staticwebassets/Images/System/End.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/FirstDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/FirstDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/FirstImage.jpg",
+      "PackagePath": "staticwebassets/Images/System/FirstImage.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/GoldenDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/GoldenDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/GothicDesc.gif",
+      "PackagePath": "staticwebassets/Images/System/GothicDesc.gif"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Help.jpg",
+      "PackagePath": "staticwebassets/Images/System/Help.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Quest.jpg",
+      "PackagePath": "staticwebassets/Images/System/Quest.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Success.html",
+      "PackagePath": "staticwebassets/Images/System/Success.html"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Tarif.jpg",
+      "PackagePath": "staticwebassets/Images/System/Tarif.jpg"
+    },
+    {
+      "Id": "/Users/apple/NewWebApi/wwwroot/Images/System/Unsuccess.html",
+      "PackagePath": "staticwebassets/Images/System/Unsuccess.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NewWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NewWebApi.props",
+      "PackagePath": "build\\NewWebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NewWebApi.props",
+      "PackagePath": "buildMultiTargeting\\NewWebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NewWebApi.props",
+      "PackagePath": "buildTransitive\\NewWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
